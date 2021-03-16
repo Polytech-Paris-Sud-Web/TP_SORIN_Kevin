@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "title": "My First Article",
+      "content": "Hello World",
+      "authors": "Orangefire"
+    },
+    {
+      "id": 2,
+      "title": "Angular component",
+      "content": "Angular component looks awesome!",
+      "authors": "Orangefire"
+    },
+    {
+      "id": 3,
+      "title": "Test 3",
+      "content": "moche",
+      "authors": "auteur"
+    },
+    {
+      "title": "Fake Title",
+      "content": "azr",
+      "authors": "azeaze",
+      "id": 4
+    }
+  ]
+}

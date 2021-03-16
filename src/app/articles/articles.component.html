@@ -1,0 +1,5 @@
+<!--<app-article [title]="this.article.title" [customContent]="this.article.content"></app-article>-->
+<div *ngFor="let article of this.articles">
+  <app-article [article]="article" (deletedArticle)="delete($event)"></app-article>
+</div>
+

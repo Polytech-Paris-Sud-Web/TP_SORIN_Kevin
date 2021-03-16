@@ -1,0 +1,15 @@
+#navbar {
+    display: table;
+    width: 100%;
+    /*table-layout: fixed;*/
+}
+#navbar li {
+    display: table-cell;
+}
+#navbar a {
+    display: block;
+    border: 1px solid red;
+    text-align: center;
+    margin: 0 5px;
+    background: #999;
+}
